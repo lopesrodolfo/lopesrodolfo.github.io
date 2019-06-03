@@ -1,0 +1,8 @@
+com.rodolfo.config
+com.rodolfo.controller
+com.rodolfo.exception
+com.rodolfo.model.account
+com.rodolfo.model.person
+com.rodolfo.model.transaction
+com.rodolfo.persistence
+com.rodolfo.service
